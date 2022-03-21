@@ -1,0 +1,64 @@
+Classes:
+
+
+Item
+    Data Members:
+        string itemName - Name of the item
+        int healthImpact - Indicates the amount of health the item changes
+        int damageImpact - Indicates the amount of damage the item changes
+        int armorImpact -  Indicates the amount of armor the item changes
+    Member functions:
+        getItemName()
+        setItemName()
+        getHealthImpact()
+        setHealthImpact()
+        getDamageImpact()
+        setDamageImpact()
+        getArmorImpact()
+        setArmorImpact()
+        useItem(Creature) - Uses the item, and applies effects to the creature based on health, damage, and armor impacts. 
+
+Creature
+    DataMembers:
+        string creatureName - Name of the creature
+        int moneyDollars - Amount of Money Dollars the creature has
+        Item inventory[] - Array of Items, storing each of the creature's items in a simulated inventory
+        int health - Amount of health the creature has
+        int defense - Amount of defense the creature has
+        int damage - amount of damage the creature does
+    MemberFunctions:
+        getCreatureName()
+        setCreatureName()
+        getMoneyDollars()
+        setMoneyDollars()
+        getInventoryItem()
+        removeFromInventory()
+        addToInventory()
+        getHealth()
+        setHealth()
+        getDefense()
+        setDefense()
+
+Party
+    DataMembers:
+        Creature partyMembers[]
+
+    MemberFunctions:
+        getPartyMemberAt()
+        setPartyMemberAt()
+        printAllPartyMembers()
+
+
+Merchant
+    DataMembers:
+        Item itemStores[]
+        int itemPrices[]
+
+    MemberFunctions:
+        getItemAt()
+        setItemAt()
+        getPriceAt()
+        setPriceAt()
+
+
+

@@ -1,0 +1,48 @@
+Merchant Name
+Default Text
+Dialogue Text 1
+Dialogue Text 2
+Dialogue Text Final
+Goodbye Text
+Not Enough Money Text
+Invalid Item Text
+
+
+Starty John
+Howdy! What can I do for you?
+Yessir, the world here seems to have gone mighty south since them monsters showed up. If you're plannin' to take them on I'd be real careful.
+That Emperor Reyalp is a real son of a gun. And his first-in-command Arbiter ain't no pushover either. Keep your wits about you friend.
+Well, if you're gonna go get yourself into trouble, might as well spend your last few days at Starty John's old shack, huh? Have a drink, on the house!
+You're always welcome back!
+Sorry pal. Seems you don't have enough moneyDollars.
+Sorry pal. I ain't got that item in stock.
+
+
+Professor Yeh
+hello! can you hear me well?
+emperor reyalp? yes, they say he was the one who created all of these scary monsters. he seems like a scary guy. i heard his top general likes lord of the rings though. 
+there's only a limited number of moneyDollars in the world friend. make sure you spend yours wisely.
+me? yes, i sell many things here that you may find useful. please, take a look around!
+have a nice day!
+need more moneyDollars.
+actually, that's not a valid item.
+
+
+The Dark Dealer
+(The hatted trench coat figure looks at you skeptically. The dark, dank building fills the air with unease.)
+...I used to be a criminal...Black market...Mafia...Hits for cash...But Reyalp...Reyalp is not to be messed with.
+...You know the creatures you've seen around?...Something about them rubs me the wrong way...Like they're more than just mindless creatures.
+...Reyalp knows something big...The best thing you can do is follow your values...
+(The figure looks at you wistfully). Stay safe friend.
+I may be out of the criminal world, but I still need to live. Get the moneyDollars or get out.
+Not for sale.
+
+
+Dr. Cynth
+(The scruffed yet smart looking woman looks you over analytically. There's a coffee stain on her labcoat). What can I do for you?
+So you're our hero huh? I've heard about you and how you want to end Reyalp's invasion. I hope you're prepared for the worst.
+You see, the way he created these creatures involves something supernatural...something out of this world. And he uses humans as the base. It haunts me every night.
+Well, I've been researching Reyalp's creatures extensively, and I might have some things that could be helpful for you. For a price of course. I need to keep my lab running.
+I wish you luck. Keep science on your side.
+Sorry, but I have a lab to run. I'm gonna need more moneyDollars than that.
+Scientifically, the item you just chose was invalid. Scientifically, of course.

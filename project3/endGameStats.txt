@@ -1,0 +1,15 @@
+ENDGAME STATS:
+-----------------------------------------------------------------------------------------------
+
+ENDING: No ending reached.
+
+FINAL PLAYER STATS:
+
+Name: jamison
+Health: 10/10
+Damage: 3
+Defense: 3
+moneyDollars: 10
+
+-----------------------------------------------------------------------------------------------
+Thanks for playing! Have a great day!

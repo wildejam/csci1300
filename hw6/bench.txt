@@ -1,0 +1,10 @@
+Player,Tm,PTS,FGA,FTA
+Precious Achiuwa,MIA,304,228,110
+Jaylen Adams,MIL,2,8,0
+Steven Adams,NOP,438,308,135
+Bam Adebayo,MIA,1197,800,354
+LaMarcus Aldridge,TOT,352,296,47
+Ty-Shon Alexander,PHO,9,12,2
+Nickeil Alexander-Walker,NOP,508,458,66
+Grayson Allen,MEM,532,414,91
+Jarrett Allen,TOT,806,482,290

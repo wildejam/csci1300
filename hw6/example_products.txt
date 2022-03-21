@@ -1,0 +1,4 @@
+crudmin, 5.00
+crud1, 7.00
+crud2, 8.00
+crudmax, 10.00

@@ -1,0 +1,50 @@
+Love Me Do,The Beatles,Rock
+From Me to You,The Beatles,Rock
+She Loves You,The Beatles,Rock
+I Want to Hold Your Hand,The Beatles,Rock
+I Feel Fine,The Beatles,Rock
+Ticket to Ride,The Beatles,Rock
+Help!,The Beatles,Rock
+Day Tripper,The Beatles,Rock
+We Can Work It Out,The Beatles,Rock
+Paperback Writer,The Beatles,Rock
+Yellow Submarine,The Beatles,Rock
+Eleanor Rigby,The Beatles,Rock
+All You Need Is Love,The Beatles,Rock
+Lady Madonna,The Beatles,Rock
+Hey Jude,The Beatles,Rock
+Get Back,The Beatles,Rock
+The Ballad of John and Yoko,The Beatles,Rock
+Let It Be,The Beatles,Rock
+Come Together,The Beatles,Rock
+The Long and Winding Road,The Beatles,Rock
+Penny Lane,The Beatles,Rock
+Your Song,Elton John,Pop
+Daniel,Elton John,Pop
+Honky Cat,Elton John,Pop
+Goodbye Yellow Brick Road,Elton John,Pop
+Bennie and the Jets,Elton John,Pop
+Crocodile Rock,Elton John,Pop
+Border Song,Elton John,Pop
+Love on a Two Way Street,The Moments,Soul
+ABC,The Jackson 5,Soul
+Call Me,Aretha Franklin,Soul
+Patches,Clarence Carter,Soul
+Hot Pants,James Brown,Soul
+In the Rain,The Dramatics,Soul
+Angel,Aretha Franklin,Soul
+Turn Back the Hands of Time,Tyrone Davis,Rhythm and Blues
+The Love You Save,The Jackson 5,Rhythm and Blues
+Ball of Confusion,The Temptations,Rhythm and Blues
+Lean on Me,Bill Withers,Rhythm and Blues
+Power of Love,Joe Simon,Rhythm and Blues
+The Payback,James Brown,Rhythm and Blues
+Be Thankful For What You Got,William DeVaughn,Rhythm and Blues
+Rainy Night in Georgia,Brook Benton,Rhythm and Blues
+Aint no Mountain High Enough,Diana Ross,Rhythm and Blues
+Jive Talkin,The Bee Gees,Pop
+Night Fever,The Bee Gees,Pop
+Tragedy,The Bee Gees,Pop
+You Should Be Dancing,The Bee Gees,Pop
+How Deep Is Your Love,The Bee Gees,Pop
+Warm Ride,The Bee Gees,Pop

@@ -1,0 +1,154 @@
+Monster Name
+Beginning Battle text
+Idle text 1
+Idle text 2
+Idle text 3
+Attacker text 1
+Attacker text 2
+Attacked text 1
+Attacked text 2
+Befriended text 1
+Befriended text 2
+
+
+Edge Guardian
+The Edge Guardian sees you get a bit too close to the edge!
+The Edge Guardian almost trips and falls off of the map.
+The Edge Guardian stares at you with its cold face. Actually, it doesn't have a face.
+The Edge Guardian seems to be trash talking you, but it's hard to tell.
+The Edge Guardian shoots state of the art rocks at your party!
+The Edge Guardian Takes a hefty, rocky swing!
+You chip off a chunk of the Edge Guardian's arm! This seems to have only made it more angry.
+You knock the Edge Guardian on it's back with a mighty swing!
+You apologize for getting so close to the edge. The Edge Guardian seems to just care about your safety.
+You tell a joke about rocks. The Guardian seems unphased, but less enraged.
+
+
+Rabid Docat
+Is it a Donut? Is it a Cat? It's a Docat!
+The Docat froths sprinkles from its mouth.
+The Docat's eyes glow menacingly.
+You wonder how this strange creature could possibly even exist.
+The Docat shoots Ultraviolet Rainbows at your party!
+The Docat screeches at your party REALLY loudly! 
+You take a big bite out of the Docat's body! You don't think about how weird that just was.
+You strike the Docat right in it's Docat face! Rainbows come out of it's middle hole.
+You ask the Docat about why the sky is blue. The Docat seems happy to explain.
+You offer to take the Docat to a veterinarian. The Docat looks puzzled but appreciates the gesture.
+
+
+Mad Wizard
+Some old guy in a Spirit Halloween wizard costume approaches you.
+You just now notice that the man's wizard costume is too small for him.
+The wizard's beard blows in the wind. It then flies off because it was also part of the costume.
+The wizard sifts through his spellbook. It's a Harry Potter fanfiction.
+The wizard throws a spellbook at your party!
+The wizard casts Quake! Nothing happens, so he swings his staff at your party.
+You unleash a flurry of attacks! The wizard dodges most of them artfully, but you manage to get one clean hit on him.
+You distract the wizard by throwing a rock behind him. He definitely saw you do it, but looked back anyway. You sneak up on him and land a blow!
+You ask the wizard if he really knows magic. He deflects the question.
+You ask the wizard to do a card trick. He excitedly pulls out his deck of cards and makes one disappear before your very eyes!
+
+
+Angry Gumball Machine
+While doing donuts in a golf cart, your party is approached by a very angry looking gumball machine!
+The gumball machine grows redder by the second.
+You notice the gumball machine isn't wearing any clothes. It is a gumball machine, after all.
+You wonder how his gumballs taste. You begin questioning why you had this thought.
+The gumball machine pulls out a gumball gun and fires high-caliber, high-velocity gumballs!
+The gumball machine screams "YOU'RE SOOOO FIRED!!!" at your party. How intimidating!
+You knock the gumball machine on the head really hard. His head cracked!
+You put a quarter in the gumball machine. A few gumballs leave the machine's dispenser! The machine looks nauseous.
+You ask the gumball machine why it is so angry. It says it just wants to be recognized as a hard worker.
+You tell the gumball machine that you respect it's authority. The gumball machine seems less angry.
+
+
+Tuxedo Plant
+A very dapper looking plant moonwalks closer!
+The plant adjusts it's bowtie. It seems to be a clip-on.
+You think about how everything looks better in a suit.
+The plant takes a long bow.
+The plant elegantly advances toward your party. It delivers a masterful strike!
+The plant pulls out a strange device from it's pocket. It looks like a pen. No, it's a zip gun! It fires the zip gun at you!
+You cut off one of the plant's leaves! It definitely is in pain, but it tries to play it cool.
+You chuck a gob of mud at the plant. The plant does everything it can to keep it's suit pristine. You capitalize and strike it while it's distracted.
+You ask the plant about the occasion it is dressed up for. It tells you it just likes wearing suits.
+You inquire about the plant's clothing outlet of choice. The plant delightedly addresses your inquiry.
+
+
+Ralphie
+A wild buffalo charges at your party at Mach 1!
+Someone screams "SKOO BUFFS!" in the distance.
+You ponder how much munch money you have left.
+The buffalo dashes around in excitement.
+The buffalo kicks a football at your party from 60 yards away! 
+The buffalo rams into the party aggressively!
+You lure the buffalo into a charge, and dodge it at the last second. You manage to get a hit on it as it zooms by you.
+You charge the buffalo down and take a swing! It connects!
+You try to catch a football that the buffalo throws at you. You catch it, and run it to the end zone! The buffalo jumps in excitement!
+You have the sudden urge to yell "SKOOOOOO BUFFS!". The buffalo jumps in excitement!
+
+
+Detective Gumshoe
+A big, greasy detective stops your party for questioning!
+Smells like salary cuts.
+Detective Gumshoe asks if you disturbed the crime scene. You have no idea what he's talking about.
+You notice a pencil in the Detective's ear. You wonder how long that has been there.
+Detective Gumshoe presents evidence incriminating your party! The guilt is worse than any physical blow.
+Detective Gumshoe pulls out his gun! He trips and accidentally fires the gun in your party's direction.
+You take a mighty swing at the burly detective. You hit him clean on the head!
+You charge the detective down! A firm tackle has the cop on the ground in seconds!
+You present conclusive evidence proving your party's innocence! Detective Gumshoe is dumbfounded!
+You indict another witness for the crime! Detective Gumshoe second-guesses his hasty accusation!
+
+
+The Biggest Emu
+A 70ft emu emerges from the horizon!
+You understand how Australia lost a war to these things.
+The emu stares into your soul. You feel violated.
+The emu begins eating all of the plant life in the immediate area. You wonder if this is environmentally sustainable.
+The giant emu jumps on to your party, attempting to stomp you out!
+The giant emu tries to eat a member of your party!
+You begin scaling the colossal emu, and manage to get a hit off on it's eyes!
+You find a giant tripwire lying around and set it up in the emu's path. The emu trips and falls!
+You scale the massive emu and whisper kind words into it's ear. The emu becomes disarmed.
+You walk up to the giant emu's leg and give it a hug. The emu is paralyzed with social anxiety.
+
+
+General Arbiter
+As your party walks down the final valley, General Arbiter blocks the path! "You shall not pass!" he booms. He points his trademark laser pistol at your party.
+You notice a Halo Infinite button on General Arbiter's overcoat.
+General Arbiter poses in the mountain wind. He looks really epic.
+General Arbiter's beard looks suspiciously similar to Gandalf's.
+General Arbiter summons toy soldiers that swarm your party!
+General Arbiter fires a super charged laser beam at your party!
+You dodge every laser beam coming at you as you charge toward the intimidating General. You jump in the air and strike him in a swift, clean maneuver.
+You deflect a flurry of lasers that gets hurled at your party, and some of which hit the general himself.
+You make a Lord of the Rings reference. General Arbiter eyes you intensely.
+You make a Halo reference. General Arbiter completes the joke!
+
+
+Emperor Reyalp
+You can feel the end drawing near.
+Smells like final boss fights.
+Emperor Reyalp breaks a sweat.
+You get the sense that this isn't Emperor Reyalp's true form...
+Emperor Reyalp engulfs the valley in a fiery blaze!
+Emperor Reyalp summons a comet from another world! It crashes down upon your party!
+You charge to the Emperor and cross swords. It takes all of your energy, but you manage a blow to Reyalp's shining black armor.
+You jump several yards into the air and unleash a flurry of cross slashes at General Reyalp. Most of them are deflected, but Reyalp is unable to block all of them.
+You beg General Reyalp to stop. He heartlessly ignores you.
+Your pleas are met only with a dark gaze.
+
+
+$$R3Y4LP*TH3*D3FEND3R#$
+*****You can feel the end drawing near.*****
+@#^^It's evident this is a battle you cannot win.**But there is no way that you're gonna lose.
+%%#Your heart pounds.***You can feel the pressure in your throat.*****It's all or nothing.****#@@
+***(Everything comes down to this.&&#&@@
+$$R3Y4LP*TH3*D3FEND3R#$ 0verflows$ the $tack!!!**&&^ You can f33l reality cr4shing downnnnnnnnn!!!!!@#$$%%!
+cout << $$R3Y4LP*TH3*D3FEND3R#$ rem0ves a semicolon!;;1;;:! You f3;;nd off 4rrors from the ;;;c0mpiler!;;;; << endl
+*You call Reyalp's setHealth() function!))(&*&&)You try to lower his setHealth!#**@@
+&&*#You delete data% members$ in Reyalp""s cla$$ definition!@# Doing so seems to hurt him!*#@@&@
+<3<3((""Your words chip away at the General's iron will."""You must persevere. You must persevere!"""!!!!!!!!
+**#(You beg< Reyalp to stop. His stern face is lit up only by a tiny glint in his eye.)*&&##
